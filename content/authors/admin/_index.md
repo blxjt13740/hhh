@@ -57,6 +57,6 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+選擇宅配運送方式的買家請在下標後盡快完成付款，我們才可以盡快為您安排出貨
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+所有商品會先集中從美國空運寄到台灣再由宅配或郵寄方式，過程中不會有扣關補稅或寄遺失的風險，到台灣轉寄約5到7天到買家手中，如果很趕著要收到貨，請不要下標喔~歡迎洽詢~我們確保優良品質和完善的售後服務，精美包裝，送禮自用兩相宜，歡迎您的參觀選購~~~~
