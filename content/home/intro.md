@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: ppp ✏️ Blog Template
-subtitle: 'For [Wowchemy Website Builder](https://wowchemy.com/)'
+subtitle: 'For [Wowchemy Website Builder](https://mceea.url.tw.)'
 
 design:
   background:
