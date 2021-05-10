@@ -57,7 +57,7 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
     codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   [markup.tableOfContents]
     startLevel = 2
-    endLevel = 3
+   
 
 []
   resampleFilter = "lanczos"
