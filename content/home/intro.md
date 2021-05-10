@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ppp ✏️ Blog Template
+title: 蔬果 ✏️ Blog Template
 subtitle: 'For [社群經營班-桂5號](https://mceea.url.tw.)'
 
 design:
