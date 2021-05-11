@@ -8,7 +8,7 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: 蔬果養生茶 ✏️ Blog Template
+title:  ✏️ Blog Template
 subtitle: 'For [社群經營班歡迎您](https://mceea.url.tw.)'
 
 design:
