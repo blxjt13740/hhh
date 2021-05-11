@@ -8,8 +8,8 @@ headless: true
 # Order that this section will appear in.
 weight: 10
 
-title: ppp ✏️ Blog Template
-subtitle: 'For [-社群經營班歡迎您-](https://mceea.url.tw.)'
+title: ppp ✏️Blog Template
+subtitle: 'For [社群經營班歡迎您-](https://mceea.url.tw.)'
 
 design:
   background:
