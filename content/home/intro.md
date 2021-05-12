@@ -9,7 +9,7 @@ headless: true
 weight: 10
 
 title: ppp ✏️Blog Template
-subtitle: 'For [社群經營班歡迎您-](https://mceea.url.tw.)'
+subtitle: 'For [-社群經營班歡迎您-](https://mceea.url.tw.)'
 
 design:
   background:
